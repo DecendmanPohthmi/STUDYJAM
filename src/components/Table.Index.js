@@ -38,7 +38,7 @@ function TableIndex() {
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
         <div className="message bg-red-100 border border-red-200 text-red-700 p-5 rounded-lg shadow-lg shadow-black-300/30 text-center border border-black-300/30">
           <p className="text-center ">Deadline: </p>
-          <p>19st November 2025 | 11:59 PM {"(IST)"}</p>
+          <p>19th November 2025 | 11:59 PM {"(IST)"}</p>
         </div>
 
 
